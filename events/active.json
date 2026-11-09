@@ -1,0 +1,57 @@
+{
+  "slug": "sreevalsam-catering-aranmula",
+  "name": "Sreevalsam Catering",
+  "shortName": "Sreevalsam",
+  "descriptor": "Catering Services",
+  "address": "Sreevalsam (H) Mallapuzhasserry opp aranmula polies, Police station, opp. Aranmula, Aranmula, Mallapuzhassery, Keralam 689533",
+  "area": "Aranmula",
+  "city": "Aranmula",
+  "district": "Pathanamthitta",
+  "region": "Kerala",
+  "postalCode": "689533",
+  "geo": {
+    "lat": 9.326941699999999,
+    "lng": 76.6902313
+  },
+  "mapsLink": "https://maps.google.com/?cid=7522736043535107692",
+  "phone": "+91 99957 19908",
+  "whatsapp": "919995719908",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.8,
+  "reviewCount": 28,
+  "reviews": [
+    {
+      "name": "Anisha Anu Varghese",
+      "rating": 5,
+      "quote": "Based on my experience, the food is delicious and the neat and clean surrounding. Good service from the staff. 👍🙏"
+    },
+    {
+      "name": "Rakhi R",
+      "rating": 5,
+      "quote": "Delicious food and great service..Best option for traditional Aranmula Vallasadya..❣️💫"
+    },
+    {
+      "name": "Jishnu Vijayan",
+      "rating": 5,
+      "quote": "Very neat service and delicious food. Especialy kannanmon and babuchettan powli"
+    },
+    {
+      "name": "HARI KRISHNAN K.R.",
+      "rating": 5,
+      "quote": "Really Tasty each Currys 😋and nice service"
+    },
+    {
+      "name": "Joby Balan",
+      "rating": 5,
+      "quote": "Awesome quality and good service ❤️"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://sreevalsam-catering-aranmula.vercel.app"
+}
